@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "owner": "bharath",
+    "title": "sample-test"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "sample-threat1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
